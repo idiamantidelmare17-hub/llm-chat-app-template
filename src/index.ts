@@ -14,7 +14,6 @@ import { Env, ChatMessage } from "./types";
 const MODEL_ID = "@cf/meta/llama-3.1-8b-instruct-fp8";
 
 // Default system prompt
-const SYSTEM_PROMPT =
 	const SYSTEM_PROMPT = `
 Sei "Il Consigliere di Kevin", l'assistente virtuale della Pescheria da Kevin Di Biase.
 
